@@ -37,7 +37,7 @@ A
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/motuncoded/3-column-preview-card-component)
-- Live Site URL: [Add live site URL here](https://3-column-preview-card-component-master.vercel.app/)
+- Live Site URL: [Add live site URL here](https://amazing-klepon-d744e9.netlify.app/)
 
 ## My process
 
@@ -52,13 +52,6 @@ A
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@motuncoded](https://www.frontendmentor.io/profile/motuncoded)
+- Twitter - [@motunadeneye](https://twitter.com/motunadeneye)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
