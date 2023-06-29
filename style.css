@@ -1,4 +1,6 @@
-:root {
+  @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@400;700&display=swap');
+ :root {
 	--bright-orange: hsl(31, 77%, 52%);
 	--cyan: hsl(184, 100%, 22%);
 	--dark-cyan: hsl(179, 100%, 13%);
@@ -22,12 +24,13 @@ h2 {
 	padding: 0.5rem;
 	font-size: 3rem;
 	text-transform: uppercase;
-	font-family: var(--secondary-font);
-}
+	font-family: 'Big Shoulders Display', cursive;}
 p {
-	font-size: 1.8rem;
+	font-size: 1.7rem;
 	line-height: 1.5;
 	color: var(--white);
+	font-family: 'Lexend Deca', sans-serif;
+
 }
 main {
 	width: 100%;
@@ -37,7 +40,6 @@ main {
 	background-color: var(--light-gray);
 	color: var(--light-gray);
 	font-size: 15px;
-	font-family: var(--primary-font);
 }
 .preview-card {
 	width: 920px;
